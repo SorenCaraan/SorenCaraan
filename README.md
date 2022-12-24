@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Soren Caraan
 
 - 🔭 I’m currently working on my software development skills
-- 👯 I’m looking to collaborate on with friendly fellow programmers!!
+- 👯 I’m looking to collaborate with friendly fellow programmers!!
 - 💬 Ask me about almost anything, I am open minded and friendly!!
 - 📫 How to reach me: By email at sorencaraan@outlook.com
 - 💻 Checkout my [ePortfolio](https://aceson571.wixsite.com/soreneportfolio)
