@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with my coding skills
 - 💬 Ask me about almost anything, I am open minded and friendly!!
 - 📫 How to reach me: By email at sorencaraan@outlook.com
+- 💻 Checkout my [ePortfolio](https://aceson571.wixsite.com/soreneportfolio)
 
 <!--
 **SorenCaraan/SorenCaraan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
